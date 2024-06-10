@@ -1,0 +1,4 @@
+
+1, ErrDBConnectionFailed, Ошибка подключения к БД
+2, ErrPingFailed, Ошибка в хосте, адресе, пользователе
+3, 
