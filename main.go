@@ -1,7 +1,7 @@
 package main
 
 import (
-	"myproject/gui"
+	"Codes/gui"
 )
 
 func main() {
